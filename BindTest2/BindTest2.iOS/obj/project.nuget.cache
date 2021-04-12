@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vAca+6/O5cEUFdmtf5LkMsDjw7SJKo+ygRBZiw+q41h7WKZgFhmFbj7zDJbIfIkx24pUNQkAx6BqtcXzUXnBcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EBradshaw\\source\\repos\\BindTest2\\BindTest2\\BindTest2.iOS\\BindTest2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

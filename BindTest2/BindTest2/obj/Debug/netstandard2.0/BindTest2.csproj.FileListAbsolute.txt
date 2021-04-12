@@ -1,0 +1,14 @@
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\bin\Debug\netstandard2.0\BindTest2.deps.json
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\bin\Debug\netstandard2.0\BindTest2.dll
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\bin\Debug\netstandard2.0\ref\BindTest2.dll
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\bin\Debug\netstandard2.0\BindTest2.pdb
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\BindTest2.csproj.CoreCompileInputs.cache
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\BindTest2.AssemblyInfoInputs.cache
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\BindTest2.AssemblyInfo.cs
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\BindTest2.dll
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\ref\BindTest2.dll
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\BindTest2.pdb
+C:\Users\EBradshaw\source\repos\BindTest2\BindTest2\BindTest2\obj\Debug\netstandard2.0\BindTest2.csprojAssemblyReference.cache
